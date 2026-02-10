@@ -1,0 +1,4 @@
+#!/bin/bash
+echo "Users:" && cut -d: -f1 /etc/passwd
+echo "Open Ports:" && ss -tuln
+echo "Running Services:" && systemctl list-units --type=service --state=running

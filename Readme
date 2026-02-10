@@ -1,0 +1,22 @@
+# Task 14 – Linux Server Hardening & Secure Configuration
+
+
+## Tools Used
+- Ubuntu / Kali Linux
+- UFW Firewall
+- Systemd
+
+
+## What I Did
+- Reviewed default system settings
+- Removed unused users and restricted sudo access
+- Disabled root login and secured SSH
+- Updated system and enabled automatic updates
+- Configured firewall rules
+- Disabled unnecessary services
+- Secured file permissions
+- Reviewed system logs
+
+
+## Outcome
+Successfully hardened a Linux system following security best practices.
